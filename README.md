@@ -1,4 +1,4 @@
-# CMSC330, Fall 22
+# Ocaml_project
 
 ## Discussions
 * [Discussion 1 - Intro to Ruby and Regex](./discussions/discussion1)
@@ -20,5 +20,3 @@
 * [Project 3 - Regular Expression Engine](./project3)
 * [Project 4a - MicroCaml Lexer and Parser](./project4a)
 * [Project 4b - MicroCaml Interpreter](./project4b)
-# Ocaml,Ruby,Rust
-# Ocaml_project
